@@ -11,7 +11,7 @@
 ### the listed folders, just keep that line commented out.        ###
 #####################################################################
 ### Path to your config folder you want to backup
-config_folder=~/printer_2_data/config
+config_folder=~/sovolsv06_data/config
 
 # NOTE: The above should work for just about everyone, but a somewhat
 # recent update to moonraker changed paths, etc. You can run the 
